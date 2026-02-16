@@ -38,8 +38,3 @@ This project implements a complete CI/CD workflow:
 - **Deployment:** AWS EC2 (Ubuntu 20.04), webhook
 - **Application:** Angular, Node.js
 - **Registry:** DockerHub
-
-## Workflow Diagrams
-
-![CI Pipeline](ci-diagram.png)
-![CD Pipeline](cd-diagram.png)
